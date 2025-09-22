@@ -1,0 +1,16 @@
+/* src/assets/styles/organisms_css/OrganismFooterBar.module.css */
+
+.footerBar {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  .footerBar button {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  

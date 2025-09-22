@@ -1,0 +1,21 @@
+/* src/assets/styles/molecules_css/MoleculeGoogleLoginForm.module.css */
+.googleLoginForm {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .googleLoginForm button {
+    padding: 10px 20px;
+    background-color: #4285F4;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .googleLoginForm button:hover {
+    background-color: #357ae8;
+  }
+  

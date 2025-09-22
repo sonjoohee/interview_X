@@ -1,0 +1,17 @@
+<svg width="23" height="13" viewBox="0 0 23 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="2.87425" y="9.67405" width="15.2066" height="1.00188" fill="#226FFF" stroke="#226FFF" stroke-width="0.519982"/>
+<path d="M1.85862 1.29975C1.85862 0.882995 2.19647 0.545147 2.61323 0.545147H15.296C15.7127 0.545147 16.0506 0.882995 16.0506 1.29975V9.66363H13.774H12.2521H7.68633H2.10593C1.96935 9.66363 1.85862 9.55291 1.85862 9.41632V1.29975Z" fill="#226FFF" stroke="#226FFF" stroke-width="0.519982"/>
+<path d="M21.8924 10.1686H16.0647V2.06468H19.7025L19.8843 2.42825L21.4062 5.47198L21.4251 5.50971L21.4549 5.53955L22.0673 6.15189C22.1136 6.19827 22.1397 6.26117 22.1397 6.32677V9.92128C22.1397 10.0579 22.029 10.1686 21.8924 10.1686Z" fill="#226FFF" stroke="#226FFF" stroke-width="0.519982"/>
+<path d="M17.5862 3.0803H20.2093L21.4713 5.60405H17.5862V3.0803Z" fill="white" stroke="#226FFF" stroke-width="0.519982"/>
+<path d="M21.3848 7.37673C21.2412 7.37673 21.1248 7.49313 21.1248 7.63672C21.1248 7.78031 21.2412 7.89671 21.3848 7.89671L21.3848 7.37673ZM22.3994 7.37673L21.3848 7.37673L21.3848 7.89671L22.3994 7.89671L22.3994 7.37673Z" fill="white"/>
+<path d="M15.4404 8.39844L1.17235 8.39844" stroke="white" stroke-width="0.519982" stroke-linecap="round"/>
+<path d="M12.7793 8.97266H15.3793V10.0126H12.7793V8.97266Z" fill="#226FFF"/>
+<line x1="17.573" y1="9.66624" x2="15.0492" y2="9.66624" stroke="#226FFF" stroke-width="0.519982" stroke-linecap="round"/>
+<path d="M12.252 9.66797H13.7739" stroke="#226FFF" stroke-width="0.519982" stroke-linecap="round"/>
+<circle cx="8.69776" cy="10.9351" r="1.6835" fill="#226FFF" stroke="white" stroke-width="0.325"/>
+<circle cx="17.8296" cy="10.9351" r="1.6835" fill="#226FFF" stroke="white" stroke-width="0.325"/>
+<circle cx="5.65479" cy="10.9351" r="1.6835" fill="#226FFF" stroke="white" stroke-width="0.325"/>
+<ellipse cx="5.65795" cy="10.9372" rx="0.253654" ry="0.253644" fill="white"/>
+<ellipse cx="8.7019" cy="10.9372" rx="0.253654" ry="0.253644" fill="white"/>
+<ellipse cx="17.8337" cy="10.9372" rx="0.253654" ry="0.253644" fill="white"/>
+</svg>

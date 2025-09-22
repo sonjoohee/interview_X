@@ -1,0 +1,52 @@
+/* main.css */
+
+/* 전역 스타일 설정 */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* 기본 레이아웃 스타일 */
+  .auth-layout,
+  .main-layout {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  .content-with-sidebar {
+    display: flex;
+    flex: 1;
+  }
+  
+  /* 네비게이션 스타일 */
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    margin: 0.5rem 0;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  /* 공통 요소 스타일 (필요시 유지) */
+  header, footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  aside {
+    background-color: #eee;
+    padding: 1rem;
+    width: 200px;
+  }
+  

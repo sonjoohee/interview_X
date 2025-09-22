@@ -1,0 +1,7 @@
+<svg width="200" height="30" viewBox="0 0 200 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="15" cy="15" r="14" fill="#2962FF"/>
+  <text x="15" y="20" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle" fill="white">01</text>
+  <text x="50" y="20" font-family="Arial" font-size="16" fill="#424242">페르소나 선택</text>
+  <path d="M130 15H170" stroke="#BDBDBD" stroke-width="2" stroke-linecap="round"/>
+  <path d="M170 15L165 10M170 15L165 20" stroke="#BDBDBD" stroke-width="2" stroke-linecap="round"/>
+</svg>

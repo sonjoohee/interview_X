@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50" fill="none">
+  <rect width="50" height="50" rx="10" fill="#EFCBF9"/>
+  <rect x="13" y="13" width="24" height="24" rx="5" fill="#CA6DDF"/>
+  <circle cx="25" cy="26" r="4" fill="white"/>
+  <mask id="mask0_415_2966" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="13" y="13" width="24" height="24">
+    <rect x="13" y="13" width="24" height="24" rx="5" fill="#CA6DDF"/>
+  </mask>
+  <g mask="url(#mask0_415_2966)">
+    <path d="M33 41C33 45.9706 29.9706 50 25 50C20.0294 50 17 45.9706 17 41C17 35.0294 20.0294 32 25 32C29.9706 32 33 35.0294 33 41Z" fill="white"/>
+  </g>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M36 20C38.866 20 43 18.866 43 15C43 11.134 38.866 10 36 10C33.134 10 29 11.134 29 15C29 16.7303 29.8281 17.9133 31 18.6924V19V21.5172C31 21.6953 31.2154 21.7846 31.3414 21.6586L33 20L33.3237 19.6763C34.2347 19.905 35.1705 20 36 20Z" fill="#2979EC"/>
+  <circle cx="33" cy="15" r="1" fill="white"/>
+  <circle cx="36" cy="15" r="1" fill="white"/>
+  <circle cx="39" cy="15" r="1" fill="white"/>
+</svg>

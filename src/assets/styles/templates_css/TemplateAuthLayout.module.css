@@ -1,0 +1,15 @@
+/* src/assets/styles/templates_css/TemplateAuthLayout.module.css */
+
+.authLayout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.mainContent {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
